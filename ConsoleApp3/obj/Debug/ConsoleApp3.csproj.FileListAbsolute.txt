@@ -1,0 +1,32 @@
+C:\Users\sinner\Documents\Tadeáš Juříček\CIA\druhyProgram\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+C:\Users\sinner\Documents\Tadeáš Juříček\CIA\druhyProgram\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+C:\Users\sinner\Documents\Tadeáš Juříček\CIA\druhyProgram\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+C:\Users\sinner\Documents\Tadeáš Juříček\CIA\druhyProgram\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.AssemblyReference.cache
+C:\Users\sinner\Documents\Tadeáš Juříček\CIA\druhyProgram\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.SuggestedBindingRedirects.cache
+C:\Users\sinner\Documents\Tadeáš Juříček\CIA\druhyProgram\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+C:\Users\sinner\Documents\Tadeáš Juříček\CIA\druhyProgram\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+C:\Users\sinner\Documents\Tadeáš Juříček\CIA\druhyProgram\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
+C:\Users\juric\Documents\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+C:\Users\juric\Documents\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+C:\Users\juric\Documents\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+C:\Users\juric\Documents\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.AssemblyReference.cache
+C:\Users\juric\Documents\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.SuggestedBindingRedirects.cache
+C:\Users\juric\Documents\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+C:\Users\juric\Documents\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+C:\Users\juric\Documents\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
+C:\Users\sinner\Documents\Tadeáš Juříček\CIA\druhyProgram\ConsoleApp3older\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+C:\Users\sinner\Documents\Tadeáš Juříček\CIA\druhyProgram\ConsoleApp3older\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+C:\Users\sinner\Documents\Tadeáš Juříček\CIA\druhyProgram\ConsoleApp3older\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+C:\Users\sinner\Documents\Tadeáš Juříček\CIA\druhyProgram\ConsoleApp3older\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.AssemblyReference.cache
+C:\Users\sinner\Documents\Tadeáš Juříček\CIA\druhyProgram\ConsoleApp3older\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.SuggestedBindingRedirects.cache
+C:\Users\sinner\Documents\Tadeáš Juříček\CIA\druhyProgram\ConsoleApp3older\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+C:\Users\sinner\Documents\Tadeáš Juříček\CIA\druhyProgram\ConsoleApp3older\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+C:\Users\sinner\Documents\Tadeáš Juříček\CIA\druhyProgram\ConsoleApp3older\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
+C:\Users\juric\Documents\ConsoleApp3older\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+C:\Users\juric\Documents\ConsoleApp3older\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+C:\Users\juric\Documents\ConsoleApp3older\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+C:\Users\juric\Documents\ConsoleApp3older\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.AssemblyReference.cache
+C:\Users\juric\Documents\ConsoleApp3older\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.SuggestedBindingRedirects.cache
+C:\Users\juric\Documents\ConsoleApp3older\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+C:\Users\juric\Documents\ConsoleApp3older\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+C:\Users\juric\Documents\ConsoleApp3older\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
