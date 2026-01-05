@@ -74,11 +74,15 @@ Each board uses:
 
 Example:
 
-.    .    .
+Example:
 
-X    O    .
+```
+. . .
+X O .
+. . X
 
-.    .    X
+```
+
 
 
 Multiple boards can be listed in the file, separated by blank lines.
