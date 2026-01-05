@@ -75,7 +75,9 @@ Each board uses:
 Example:
 
 . . .
+
 X O .
+
 . . X
 
 
